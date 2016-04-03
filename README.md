@@ -7,7 +7,7 @@
 2. Matplotlib(pip it!)
 3. Numpy (Pip it!)
 4. Pandas (Pip it!)
-5. OpenCv (Download from OpenCv); [Here is the link for download](https://sourceforge.net/projects/opencvlibrary/) follow the **[Installing OpenCV from prebuilt binaries](http://docs.opencv.org/3.1.0/d5/de5/tutorial_py_setup_in_windows.html#gsc.tab=0)**instruction for installing.
+5. OpenCv (Download from OpenCv); [Here is the link for download](https://sourceforge.net/projects/opencvlibrary/) follow the **[Installing OpenCV from prebuilt binaries](http://docs.opencv.org/3.1.0/d5/de5/tutorial_py_setup_in_windows.html#gsc.tab=0)** instruction for installing.
 
 
 ###Refernces:
